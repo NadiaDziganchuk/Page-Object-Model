@@ -1,4 +1,4 @@
-const baseUrl = 'https://www.google.com';
+const baseUrl = 'https://stage.pasv.us/';
 const specs = ['./test/specs/**/*.spec.js'];
 
 exports.config = {
